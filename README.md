@@ -9,3 +9,17 @@ The data is collected using the New York Times Article API. New York Times is on
 **2. Sentiment Analysis using TextBlob:** 
 Sentiment Analysis refers to determining the dominant emotion behind textual information. Here, we've used TextBlob - NLTK based textual processing library for analyzing the sentiment. The sentiment is identified in terms of polarity (positive, negative, or neutral) and subjectivity
 
+This repository contains the project in two forms:
+**1. A Notebook (New-York-Times-Headlines-Sentiment-Analyzer.ipynb)** comprising code divided into various cells. This is useful if one intends to gain a rudimentary idea of working of the analysis part of the project.
+
+**2. NYT_Analysis_app.py**, which is a complete product along with the front end. 
+
+For the frontend, **streamlit** library of Python has been employed.
+
+Here's how the front end looks like:
+
+**Home page:** The primary page appears when one runs the application.
+The user just needs to add the required details via the text_input box and the slider provided in the sidebar and then the analysis results appear.
+
+**Analysis Results:** Once the analysis is complete, the results appear as follows. 
+
