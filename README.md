@@ -21,5 +21,15 @@ Here's how the front end looks like:
 **Home page:** The primary page appears when one runs the application.
 The user just needs to add the required details via the text_input box and the slider provided in the sidebar and then the analysis results appear.
 
+![NYT_Analyzer_Home_Page](GUIs/NYT_Analysis_HomePage.PNG)
+
+
 **Analysis Results:** Once the analysis is complete, the results appear as follows. 
+
+![NYT_Analyzer_Resuts-1](GUIs/NYT_Analysis_Results-1.PNG)
+
+![NYT_Analyzer_Resuts-2](GUIs/NYT_Analysis_Results-2.PNG)
+
+![NYT_Analyzer_Resuts-3](GUIs/NYT_Analysis_Results-3.PNG)
+
 
